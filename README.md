@@ -108,6 +108,35 @@ firebase deploy
 
 ---
 
+## 🖼️ Capturas de Pantalla
+
+### Pantalla de Inicio
+![Inicio](./documents/image/Inicio.jpg)
+
+### Nuevo Ingreso
+![Ingreso](./documents/image/Ingreso.jpg)
+
+### Escaneo de Patente (OCR)
+![OCR](./documents/image/EscanearPatentes.jpg)
+
+### Historial Financiero
+![Historial](./documents/image/Historial.jpg)
+
+### Lavados
+![Lavados](./documents/image/Lavados.jpg)
+
+### Recordatorios
+![Recordatorios](./documents/image/Recordatorios.jpg)
+
+### Resumen Semanal
+![Resumen Semanal](./documents/image/ResumenSemanal.jpg)
+
+### Egreso
+![Egreso](./documents/image/Egreso.jpg)
+
+
+---
+
 ## 📂 Firestore - Estructura de Colecciones
 
 * `autos` - Historial de ingresos y egresos.
@@ -115,6 +144,26 @@ firebase deploy
 * `cocheras` - Patentes de cocheras mensuales.
 * `recordatorios` - Eventos importantes con fecha.
 * `resumenes` - Historial de PDFs exportados.
+* `tarifas` - Tarifas de los lavados.
+* `mensuales` - Autos con cocheras mensuales.
+
+
+---
+
+## 🔐 Seguridad
+
+Este repositorio público:
+
+- ✅ No contiene claves de Firebase ni configuración privada
+- ✅ No incluye funciones backend ni scripts internos
+- ✅ Está pensado solo para mostrar el funcionamiento general
+
+---
+
+## 🎯 Propósito
+
+Proyecto desarrollado como práctica profesional.  
+No habilitado para uso comercial sin autorización del autor.
 
 ---
 
@@ -138,3 +187,10 @@ firebase deploy
 ## 📥 Licencia
 
 Este proyecto es de código cerrado. Uso interno autorizado para administración de estacionamiento + lavadero.
+
+---
+
+## 📬 Contacto
+¿Te interesa ver la app funcionando o contratar desarrollo personalizado?
+
+Mandame un correo y te muestro la versión completa en funcionamiento.
